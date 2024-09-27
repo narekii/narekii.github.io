@@ -1,0 +1,220 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #f0f8ff;
+}
+h1, h2, h3 {
+    color: #000000;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+}
+
+.custom-title {
+    margin-left: 20px;
+}
+
+.Tahoma {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.index-square1 {
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 150px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.index-square2 {
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 450px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.profile-square1{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 80px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.profile-square2{
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 525px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.profile-square3, .profile-square4{
+    padding: 20px;
+    height: 500px;
+    max-width: 20.75%;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0.5% 0.25%;
+}
+
+.hometown-square1{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 80px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.hometown-square2{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 207px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.hometown-square3{
+    padding: 20px;
+    height: 380px;
+    max-width: 20.75%;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0.5% 0.25%;
+}
+
+.hometown-square4{
+    padding: 13px;
+    height: 330px;
+    width: 21.25%;
+    border-radius: 10px;
+    margin: -0.25%;
+}
+
+.food-square1{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 215px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.food-square2{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 250px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.food-square3{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 250px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.tourist-square1{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 80px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.tourist-square2{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 500px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.tourist-square3{
+    padding: 20px;
+    height: 500px;
+    max-width: 20.75%;
+    background-color: white;
+    border-bottom: 5px solid #e9ecef;
+    border-left: 5px solid #e9ecef;
+    border-right: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: -0.5% 0.25%;
+}
+
+.tourist-square4{
+    padding: 20px;
+    height: 500px;
+    max-width: 20.75%;
+    background-color: white;
+    border-top: 5px solid #e9ecef;
+    border-left: 5px solid #e9ecef;
+    border-right: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: -0.5% 0.25%;
+}
+
+.tourist-square5{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 42.5%;
+    height: 550px;
+    background-color: white;
+    border: 5px solid #e9ecef;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
